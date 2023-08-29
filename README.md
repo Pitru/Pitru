@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **HeartLink** which is an application supporting care of patients with Left Ventricular Assist Devices.
 
+- 🎓 I study Applied Computer Science at Wroclaw University of Science and Technology.
+
 - 📫 You can reach me here **piotr.lazik@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
